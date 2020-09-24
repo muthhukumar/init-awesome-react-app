@@ -1,4 +1,4 @@
-main {
+module.exports = `main {
     display: flex;
     margin: 0 auto;
     width: 100%;
@@ -19,4 +19,4 @@ main a {
 
 .active {
     color: green;
-}
+}`;

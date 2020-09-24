@@ -1,6 +1,6 @@
 {
   "name": "init-awesome-react-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Boiler plate for react with redux and react router dom preconfigured",
   "main": "index.js",
   "scripts": {

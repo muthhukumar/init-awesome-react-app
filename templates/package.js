@@ -1,10 +1,10 @@
 module.exports = `{
   "name": "Your-react-app-name",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Your app description",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --hot",
+    "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
   },
   "author": "0-void",
