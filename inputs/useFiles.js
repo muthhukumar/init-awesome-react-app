@@ -1,5 +1,6 @@
 module.exports = {
   "package.json": require("../templates/package.js"),
+  ".gitignore": require("../templates/gitignore.js"),
   "prettier.config.js": require("../templates/prettier.config"),
   "webpack.config.js": require("../templates/webpack.config"),
   ".babelrc": require("../templates/babelrc"),
